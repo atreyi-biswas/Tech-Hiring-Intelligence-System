@@ -361,8 +361,7 @@ tech-hiring-intelligence-system/
 ├── visuals/
 │
 ├── README.md
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
 ```
 
 ---
