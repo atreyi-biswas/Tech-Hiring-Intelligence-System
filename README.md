@@ -11,6 +11,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/excel-217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
